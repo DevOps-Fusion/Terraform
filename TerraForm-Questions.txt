@@ -1,0 +1,32 @@
+## Basic Level ##
+
+1.What is Terraform and how does it work?
+2.Explain the difference between Terraform and other IaC tools like Ansible and Chef.
+3.What are Terraform providers and how do they work?
+4.How do you define resources in Terraform?
+5.What is the terraform init command?
+6.How do you manage state in Terraform?
+7.Explain the use of variables in Terraform.
+8.What is a Terraform module and how do you use it?
+
+## Intermediate Level ##
+
+1.How do you handle dependencies between resources in Terraform?
+2.What is the purpose of the terraform plan command?
+3.How do you use the terraform apply command?
+4.Explain the concept of Terraform workspaces.
+5.How do you manage secrets in Terraform?
+6.What are Terraform backends and how do you configure them?
+7.How do you use Terraform with a version control system like Git?
+8.What is the purpose of the terraform destroy command?
+
+## Advanced Level ##
+
+1.How do you create and use custom Terraform providers?
+2.Explain the concept of Terraform remote state and how you use it.
+3.How do you handle Terraform state file locking?
+4.What are Terraform provisioners and how do you use them?
+5.How do you manage multiple environments (Dev, Staging, Prod) in Terraform?
+6.Explain the concept of Terraform dynamic blocks and how to use them.
+7.How do you troubleshoot and debug Terraform configurations?
+
